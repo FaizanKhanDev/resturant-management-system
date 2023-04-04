@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "faizan",
+      "email": "faizan480khan@gmail.com",
+      "password": "faizankhan2019",
+      "id": 1
+    },
+    {
+      "name": "dev",
+      "email": "dev@gmail.com",
+      "password": "devkhan",
+      "id": 2
+    },
+    {
+      "name": "faizan",
+      "email": "kahn@gmail.com",
+      "password": "dev",
+      "id": 3
+    },
+    {
+      "name": "khandev",
+      "email": "khandev@gmail.com",
+      "password": "khandev",
+      "id": 4
+    },
+    {
+      "name": "faizan",
+      "email": "faizan@gmail.com",
+      "password": "faizan",
+      "id": 5
+    },
+    {
+      "name": "faizan",
+      "email": "faizan@gmail.com",
+      "password": "faizan",
+      "id": 6
+    },
+    {
+      "name": "faizandev",
+      "email": "faizandev@gmail.com",
+      "password": "faizandev",
+      "id": 7
+    },
+    {
+      "name": "dev123",
+      "email": "dev@gmail.com",
+      "password": "dev123",
+      "id": 8
+    },
+    {
+      "name": "dell",
+      "email": "dell@gmail.com",
+      "password": "della",
+      "id": 9
+    },
+    {
+      "name": "del",
+      "email": "del@gmail.com",
+      "password": "del",
+      "id": 10
+    }
+  ]
+}
